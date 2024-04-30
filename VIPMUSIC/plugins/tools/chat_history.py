@@ -63,7 +63,7 @@ async def check_bots_command(client, message):
             await message.reply_document(document=filename)
             os.remove(filename)  # Delete the file after sending
         else:
-            await message.reply_text("Invalid command format.\n\nPlease use /botchat Bot_Username/User_ID [limit]\n\nExample: `/botchat @example_bot 10`")
+            await message.reply_text("Invalid command format.\n\nPlease use /botchat Bot_Username/User_ID [limit]\n\nExample: `/botchat @decentassistantbot 10`")
     except Exception as e:
         await message.reply_text(f"An error occurred: {e}")
         print(f"Error occurred during /botchat command: {e}")
