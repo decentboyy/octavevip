@@ -20,9 +20,9 @@ MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
 
 ☄️Register Link🔗:- https://91club.game/#/register?invitationCode=65847105926
 
-24ʜʀ ᴘʀᴇᴅɪᴄᴛɪᴏɴ:- https://t.me/VIP_CREATORS/1145
+24ʜʀ ᴘʀᴇᴅɪᴄᴛɪᴏɴ:- https://t.me/decentb
 
-🌟Do register & get bonus from :-  @RajaGameClubAgents**"""
+🌟Do register & get bonus from :-  @decentb**"""
 
 
 BUTTONS = InlineKeyboardMarkup(
