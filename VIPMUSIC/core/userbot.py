@@ -64,10 +64,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("THE_VIP_BOY")
-                await self.one.join_chat("THE_VIP_BOY_OP")
-                await self.one.join_chat("TG_FRIENDSS")
-                await self.one.join_chat("VIP_CREATORS")
+                await self.one.join_chat("Decent_b")
+                await self.one.join_chat("CodeNexus_community")
+                await self.one.join_chat("Iink_ka_adda")
+                await self.one.join_chat("link_ka_adda")
                 
             except:
                 pass
@@ -97,10 +97,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("THE_VIP_BOY")
-                await self.two.join_chat("THE_VIP_BOY_OP")
-                await self.two.join_chat("TG_FRIENDSS")
-                await self.two.join_chat("VIP_CREATORS")
+                await self.two.join_chat("Decent_b")
+                await self.two.join_chat("CodeNexus_community")
+                await self.two.join_chat("Iink_ka_adda")
+                await self.two.join_chat("link_ka_adda")
             except:
                 pass
             assistants.append(2)
@@ -121,10 +121,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("THE_VIP_BOY")
-                await self.three.join_chat("THE_VIP_BOY_OP")
-                await self.three.join_chat("TG_FRIENDSS")
-                await self.three.join_chat("VIP_CREATORS")
+                await self.three.join_chat("Decent_b")
+                await self.three.join_chat("CodeNexus_community")
+                await self.three.join_chat("Iink_ka_adda")
+                await self.three.join_chat("link_ka_adda")
             except:
                 pass
             assistants.append(3)
@@ -144,10 +144,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("THE_VIP_BOY")
-                await self.four.join_chat("THE_VIP_BOY_OP")
-                await self.four.join_chat("TG_FRIENDSS")
-                await self.four.join_chat("VIP_CREATORS")
+                await self.four.join_chat("Decent_b")
+                await self.four.join_chat("CodeNexus_community")
+                await self.four.join_chat("Iink_ka_adda")
+                await self.four.join_chat("link_ka_adda")
             except:
                 pass
             assistants.append(4)
@@ -167,10 +167,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("THE_VIP_BOY")
-                await self.five.join_chat("THE_VIP_BOY_OP")
-                await self.five.join_chat("TG_FRIENDSS")
-                await self.five.join_chat("dhhdshhss6")
+                await self.five.join_chat("Decent_b")
+                await self.five.join_chat("CodeNexus_community")
+                await self.five.join_chat("Iink_ka_adda")
+                await self.five.join_chat("link_ka_adda")
             except:
                 pass
             assistants.append(5)
